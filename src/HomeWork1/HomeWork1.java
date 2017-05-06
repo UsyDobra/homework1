@@ -15,6 +15,7 @@ public class HomeWork1 {
         second = first - second;
         first = first - second;
 
+
         System.out.println("First = " + first + " , second = " + second);
     }
 }
