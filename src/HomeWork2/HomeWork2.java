@@ -14,7 +14,7 @@ public class HomeWork2 {
 
         /*Your code here*/
         int a = 90;
-        int b = a / 2;
+        int b = a / 3;
         int result = a + b;
         System.out.println("Angle between hours and minute narrows is " + result);
     }
